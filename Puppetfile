@@ -29,8 +29,8 @@ mod 'ntp',
 
 mod 'role',
   :git => 'https://github.com/mishrade/deepika-role.git',
-  :ref => 'master'
+  :ref => 'development'
 
 mod 'profile',
   :git => 'https://github.com/mishrade/puppet-profile.git',
-  :ref => 'master'
+  :ref => 'development'
