@@ -1,0 +1,9 @@
+---
+profile::nginx::vhosts:
+ - 'fqdn': 'roblox2.mylabserver.com'
+   'port': 80
+   'server_aliases': ''
+ - 'fqdn' : 'roblox2b.mylabserver.com'
+   'port': 80
+   'server_aliases': 'roblox2b1.mylabserver.com'
+   
