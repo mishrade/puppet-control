@@ -38,5 +38,5 @@ mod 'profile',
   :ref => 'master'
 
 mod 'nginx',
-  :git => 'git@github.com:mishrade/deepika-nginx.git',
+  :git => 'https://github.com/mishrade/deepika-nginx.git,
   :ref => 'master'
