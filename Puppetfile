@@ -21,20 +21,20 @@ mod "stahnma/epel",           '1.2.2'
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
 
-mod 'ssh',
-  :git => 'https://github.com/mishrade/puppet-ssh.git',
-  :ref => 'master'
+#mod 'ssh',
+#  :git => 'https://github.com/mishrade/puppet-ssh.git',
+#  :ref => 'master'
 
-mod 'ntp',
-  :git => 'https://github.com/mishrade/puppet-ntp.git',
-  :ref => 'master'
+#mod 'ntp',
+#  :git => 'https://github.com/mishrade/puppet-ntp.git',
+#  :ref => 'master'
 
 mod 'role',
-  :git => 'https://github.com/mishrade/deepika-role.git',
+  :git => 'https://github.com/mishrade/drole.git',
   :ref => 'master'
 
 mod 'profile',
-  :git => 'https://github.com/mishrade/puppet-profile.git',
+  :git => 'https://github.com/mishrade/dprofile.git',
   :ref => 'master'
 
 mod 'nginx',
